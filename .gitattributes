@@ -1,0 +1,6 @@
+*.csv
+*.pkl
+.git
+.vscode
+__pycache__/
+*.pyc
